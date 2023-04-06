@@ -1,6 +1,6 @@
 //
 // Created by Zhenqi Song on 2023/3/29.
-//
+// 普通的栈在多线程下容易造成竞争
 
 #include <queue>
 
